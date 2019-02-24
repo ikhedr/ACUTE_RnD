@@ -1,0 +1,20 @@
+1. What Are Best Free, Web-based Help Desk Software Solutions For A Startup?
+-> https://financesonline.com/what-are-best-free-web-based-help-desk-software-solutions-for-a-startup/
+
+-- https://jatana.ai/how-it-works
+
+-> Assignment logic implementation
+	-> https://docops.ca.com/ca-service-management/14-1/en/administering/configure-ca-service-desk-manager/auto-assignment/how-auto-assignment-assigns-tickets/how-auto-assignment-assigns-tickets-flow-diagram
+2. http://www.bmcsoftware.in/guides/itil-incident-management.html
+
+3. https://medium.com/@Veamly/how-to-prioritize-your-support-tickets-34ebc716bdde
+
+4. https://www.hotjar.com/blog/customer-experience
+
+5. https://support.zendesk.com/hc/en-us/community/posts/204361768-Zendesk-on-Zendesk-How-we-triage
+
+6. https://www.answeriq.com/blog/5-signs-that-its-time-to-automate-your-ticket-triage
+
+7. https://www.answeriq.com/blog/the-6-components-of-an-effective-ticket-management-system
+
+9. https://www.flycastpartners.com/itil-sla-triage/
